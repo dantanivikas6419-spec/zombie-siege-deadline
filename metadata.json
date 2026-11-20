@@ -1,0 +1,8 @@
+{
+  "name": "Zombie Siege: Deadline",
+  "description": "Zombie Siege: Deadline is a stylized zombie shooter featuring 100 progressively challenging levels. Battle the undead across changing battlefields, with different enemy combinations, obstacles, and tactical challenges.\n\nAim carefully, cancel unwanted shots, and use powerful weapons and the environment to defeat zombies. Earn coins, unlock weapons with unique abilities, and customize your survivor with new characters.\n\nTake aim. Fight the undead. Conquer all 100 levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
